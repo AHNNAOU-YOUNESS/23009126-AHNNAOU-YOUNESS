@@ -1,34 +1,18 @@
-# Machine Learning – Data Science Project
+# Projet Data Science – Machine Learning
 
-## Project Overview
-This project explores and compares 29 Machine Learning algorithms as part of the S7 coursework at ENCG Settat.
+## Présentation
+Ce projet, réalisé dans le cadre du semestre S7 à l'ENCG Settat, porte sur l'étude et l'expérimentation de 29 algorithmes de Machine Learning.
 
-The objective is to understand how different algorithms work, experiment with their parameters, evaluate their performance, and identify their strengths and limitations.
+## Travail réalisé
+- Étude théorique et compréhension des 29 algorithmes.
+- Implémentation et expérimentation avec Python.
+- Analyse de l'impact des hyperparamètres sur les performances.
+- Utilisation de jeux de données réels : Diabetes, Breast Cancer Wisconsin et Wine.
+- Comparaison des modèles à l'aide de différentes métriques et visualisations.
+- Exploration de l'apprentissage par renforcement à travers des environnements simulés.
 
-## What We Did
-- Studied 29 Machine Learning algorithms covering regression, classification, clustering, dimensionality reduction, anomaly detection, and reinforcement learning.
-- Explained the main concepts, mathematical equations, and applications of each algorithm.
-- Conducted experiments by modifying hyperparameters and observing their impact on model performance.
-- Worked with real-world datasets:
-  - **Diabetes:** Regression.
-  - **Breast Cancer Wisconsin:** Classification.
-  - **Wine:** Clustering and dimensionality reduction.
-- Compared different models using appropriate evaluation metrics.
-- Explored reinforcement learning through simulated environments, including multi-armed bandits and CliffWalking.
-- Used visualizations and performance metrics to interpret the results.
+## Outils utilisés
+Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Scikit-learn et Gymnasium.
 
-## Tools & Technologies
-- Python
-- Jupyter Notebook / Google Colab
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Gymnasium
-
-## Project Structure
-- `CC_Partie_C_S7_ENCG_Settat_Individuel_complete.ipynb` – Main notebook containing the explanations, implementations, experiments, and comparisons.
-- `CC_Partie_C_S7_ENCG_Settat_CONSIGNES_Individuelles.md` – Project instructions.
-
-## Conclusion
-This project provides a practical understanding of Machine Learning techniques through theoretical analysis, experimentation, model comparison, and interpretation of results.
+## Livrable
+Un notebook Jupyter (`.ipynb`) regroupant les explications, les expérimentations et les analyses des résultats.
